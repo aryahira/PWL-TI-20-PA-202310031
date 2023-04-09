@@ -3,7 +3,7 @@ import React from "react";
 export default function TableData({data}) {
   const ItemProduct = ({item}) => {
     return (
-      <div className="card item mb-8">
+      <div style = {{ marginBottom : '1rem' }} className="card item mb-8">
         <div className="card-body p-0">
           <div className="img">
             <img

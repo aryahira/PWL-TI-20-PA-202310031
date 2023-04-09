@@ -40,7 +40,7 @@ export function Products() {
   },[])
 
   return (
-    <div style={{ marginTop : '2rem' }} id="product-master">
+    <div style={{ marginTop : '1rem' }} id="product-master">
       <div className="row">
         <div className="col-sm-12 col-lg-8">
           <div className="d-flex flex-wrap flex-stack pb-7">
